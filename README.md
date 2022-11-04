@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
 <h3 align="center">An aspiring frontend developer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" 
-src="https://github.com/shashikant190/User_Profile_Card-1/blob/main/User_Profile_Card.png">
+src="https://github.com/30-Days-of-Projects/StopWatch/blob/main/StopWatch.png">
 
 - 🔭   This is the 2nd project from my 30 Days of Project Repository.
 - 🔭   So this is a simple stopwatch which can be useful to individuals for their individuals works and all.
